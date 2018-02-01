@@ -1,0 +1,23 @@
+{
+  "name": "node-server",
+  "version": "1.0.0",
+  "description": "This is a server made in node",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoseAlvarezHernandez/node-server.git"
+  },
+  "author": "Jose de Jesus Alvarez Hernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoseAlvarezHernandez/node-server/issues"
+  },
+  "homepage": "https://github.com/JoseAlvarezHernandez/node-server#readme",
+  "dependencies": {
+    "restify": "^4.3.1"
+  }
+}
